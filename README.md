@@ -9,8 +9,43 @@ This application is developed for many important purposes such as:
 -	Students can simply open their account on kiosk and check their own or any professor’s timetable.
 -	If anybody is not familiar with rooms of Algonquin college (especially for new students), they can find the way to room using these kiosks.
 
+## Images
+
+#### 1. Main Page
+![](Project%20Images/MainPage.PNG)
 
 
+#### 2. Admin Panel
+![](Project%20Images/Administrator.PNG)
 
 
+#### 3. Sign up
+![](Project%20Images/Signup.PNG)
 
+
+#### 4. Delete an account
+![](Project%20Images/Admin_Delete.PNG)
+
+
+#### 5. Professor Panel
+![](Project%20Images/Professor.PNG)
+
+
+#### 6. Class Cancellation Notice
+![](Project%20Images/Professor_Notice.PNG)
+
+
+#### 7. Course Register
+![](Project%20Images/Professor_Register.PNG)
+
+
+#### 8. Student Panel
+![](Project%20Images/Student.PNG)
+
+
+#### 9. Book an Appointment
+![](Project%20Images/Student_Appointment.PNG)
+
+
+#### 10. View Notice
+![](Project%20Images/Student_Notice.PNG)
